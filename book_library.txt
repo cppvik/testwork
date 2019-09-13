@@ -1,0 +1,14 @@
+book1 reader1
+book1 reader2
+book1 reader1
+book1 reader3
+book1 reader5
+book2 reader2
+book2 reader1
+book2 reader2
+book3 reader2
+book3 reader2
+book4 reader2
+book4 reader3
+book4 reader1
+book5 reader2
